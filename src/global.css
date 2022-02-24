@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+@import "./index.css";
+
+/* #about {
+  background-image: url(../public//pexels-photo-248515.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+} */
