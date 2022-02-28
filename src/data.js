@@ -5,6 +5,30 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./pexels-photo-248515.png",
+    link: "https://tahirajannat.github.io/strict-bootstrap/",
+  },
+  {
+    title: "Responsive web",
+    subtitle: "Html5 & CSS3",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./strict2.png",
+    link: "https://tahirajannat.github.io/Coeluso/",
+  },
+  {
+    title: "Responsive web",
+    subtitle: "Html5 & CSS3",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./Coeluso.png",
+    link: "https://tahirajannat.github.io/Responsive-css-test/",
+  },
+  {
+    title: "Responsive web",
+    subtitle: "Html5 & CSS3",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./mache.png",
     link: "",
   },
   {
@@ -12,7 +36,7 @@ export const projects = [
     subtitle: "Html5 & CSS3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./pexels-cottonbro-5473298.jpg",
+    image: "./Responsive.png",
     link: "",
   },
   {
@@ -20,31 +44,7 @@ export const projects = [
     subtitle: "Html5 & CSS3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./pexels-cottonbro-5473298.jpg",
-    link: "",
-  },
-  {
-    title: "Responsive web",
-    subtitle: "Html5 & CSS3",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./pexels-cottonbro-5473298.jpg",
-    link: "",
-  },
-  {
-    title: "Responsive web",
-    subtitle: "Html5 & CSS3",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./pexels-cottonbro-5473298.jpg",
-    link: "",
-  },
-  {
-    title: "Responsive web",
-    subtitle: "Html5 & CSS3",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./pexels-cottonbro-5473298.jpg",
+    image: "./strict2.png",
     link: "",
   },
 ];

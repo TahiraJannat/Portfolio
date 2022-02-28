@@ -4,28 +4,31 @@ import { skills } from "../data";
 export default function Skills() {
   return (
     <section id="skills">
-      <div className="container px-20 py-10 mx-auto">
-        <div className="text-center mb-20">
-          {/* <ChipIcon className="w-10 inline-block mb-4" /> */}
-          <h1 className="sm:text-4xl text-3xl font-medium title-font text-gray-900 mb-4">
+      <div className="container md:px-20 px-8 pt-10 pb-20 mx-auto">
+        <div className="flex flex-col w-full mb-10 md:text-left text-center">
+          {/* <CodeIcon className="mx-auto inline-block w-10 mb-4" /> */}
+          <h1 className=" text-3xl font-medium font-serif mb-4">
             Skills &amp; Technologies
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+          <span className="border border-b border-gray-900 w-24 md:mx-0 mx-auto"></span>
+          {/* <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            I have built many websites using Html5, CSS3, Bootstrap,Tailwind
+            CSS, SCSS, JavaScript, jQuery, ReactJS and WordPress.
+            <br></br>
           </p>
+          <p className="py-4 bold capitalize text-lg">
+            You can visit theme from the gallery.
+          </p> */}
         </div>
 
         <div className="grid grid-cols-12 gap-4 ">
           {skills.map((skill) => (
-            <div className="col-span-2 mx-auto bg-gray-200 w-full  pt-6 pb-4 rounded-md">
+            <div className="lg:col-span-2 sm:col-span-3 col-span-6 mx-auto bg-gray-200 w-full  pt-5 pb-2 rounded-md shadow-lg transition duration-0 hover:duration-150 cursor-default">
               <div class=" pb-3 text-center">
-                <h1 class="listing-number-2 text-teal-500 w-10 h-10 rounded-full text-center bold border border-teal-500 py-1 text-xl mx-auto mb-4">
+                <h1 class="animate-pulse listing-number-2 text-teal-500 w-10 h-10 rounded-full text-center bold border border-teal-500 py-1 text-xl mx-auto mb-4">
                   {skill.number}
                 </h1>
-                <h2 className="text-xl text-black text-center">
-                  {" "}
+                <h2 className="text-lg text-gray-700 text-center font-serif">
                   {skill.title}
                 </h2>
               </div>
