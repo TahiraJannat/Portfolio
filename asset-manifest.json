@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a9d6fe3f.css",
+    "main.js": "/Portfolio/static/js/main.39b4c193.js",
+    "static/media/tahira_jannat.png": "/Portfolio/static/media/tahira_jannat.c466cd7bfb2ed4472790.png",
+    "static/media/pexels-photo-248515.png": "/Portfolio/static/media/pexels-photo-248515.36ef76f19c7400fe58e4.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a9d6fe3f.css.map": "/Portfolio/static/css/main.a9d6fe3f.css.map",
+    "main.39b4c193.js.map": "/Portfolio/static/js/main.39b4c193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d6fe3f.css",
+    "static/js/main.39b4c193.js"
+  ]
+}
